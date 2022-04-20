@@ -125,5 +125,6 @@ The finished sales management dashboard with one page with works as a dashboard 
 **Customer Overview Report**
 ![alt Sales Data Model Image](https://github.com/TanmayPhalke/Sales-Overview-Project/blob/main/Images/CustomerReport.PNG)
 
+Thanks for reading!
 
-Made with :heart: by Tanmay Phalke
+:Made with :heart: by Tanmay Phalke:

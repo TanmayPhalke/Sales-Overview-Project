@@ -11,7 +11,7 @@ The business request for this data analyst project was an executive sales report
 |4|Sales Manager|A dashboard overview of internet sales|Follow sales over time against budget|	A Power BI dashboard with graphs and KPIs comparing against budget.|
 
 
-**Data Cleansing & Transformation (SQL)**
+##Data Cleansing & Transformation (SQL)
 
 To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL.
 
@@ -106,11 +106,21 @@ ORDER BY
 `
 
 
-**Data Model**
+##Data Model
 
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 
 This data model also shows how FACT_Budget hsa been connected to FACT_InternetSales and other necessary DIM tables.
 
 ![alt Sales Data Model Image](https://github.com/TanmayPhalke/Sales-Overview-Project/blob/main/Images/Sales%20Data%20Model.PNG)
+
+##Sales Management Dashboard
+
+The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
+
+**Sales Report**
+![alt Sales Data Model Image](https://github.com/TanmayPhalke/Sales-Overview-Project/blob/main/Images/SalesReport.PNG)
+
+**Customer Report**
+![alt Sales Data Model Image](https://github.com/TanmayPhalke/Sales-Overview-Project/blob/main/Images/CustomerReport.PNG)
 

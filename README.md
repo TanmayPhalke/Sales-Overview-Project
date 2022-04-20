@@ -5,6 +5,14 @@ The business request for this data analyst project was an executive sales report
 
 |#|As a (role)|I want (request / demand)|So that I (user value)|Acceptance Criteria|
 |-|-----------|-------------------------|----------------------|-------------------|
+|1|Sales Manager|To get a dashboard overview of internet sales|Can follow better which customers and products sells the best|	A Power BI dashboard which updates data once a day|
+|-|-----------|-------------------------|----------------------|-------------------|
+|#|As a (role)|I want (request / demand)|So that I (user value)|Acceptance Criteria|
+|-|-----------|-------------------------|----------------------|-------------------|
+|#|As a (role)|I want (request / demand)|So that I (user value)|Acceptance Criteria|
+|-|-----------|-------------------------|----------------------|-------------------|
+|#|As a (role)|I want (request / demand)|So that I (user value)|Acceptance Criteria|
+|-|-----------|-------------------------|----------------------|-------------------|
 
 As a (role)	// I want (request / demand)//	So that I (user value)	//Acceptance Criteria
 1	//Sales Manager//	To get a dashboard overview of internet sales//	Can follow better which customers and products sells the best//	A Power BI dashboard which updates data once a day

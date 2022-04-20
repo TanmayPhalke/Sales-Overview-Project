@@ -18,6 +18,7 @@ One data source (sales budgets) were provided in Excel format and were connected
 Below are the SQL statements for cleansing and transforming necessary data.
 
 **DIM Calender:**
+
 `SELECT 
   [DateKey], 
   [FullDateAlternateKey] AS Date, 
@@ -35,6 +36,7 @@ WHERE
 `
 
 **DIM Customer:**
+
 `SELECT 
   [CustomerKey] AS [Customer Key], 
   C.[FirstName] AS [First Name], 
@@ -59,6 +61,7 @@ ORDER BY
 `
 
 **DIM Products:**
+
 `SELECT 
   p.[ProductKey], 
   p.[ProductAlternateKey] AS ProductItemCode, 
@@ -80,6 +83,7 @@ ORDER BY
 `
 
 **FACT_InternetSales:**
+
 `SELECT 
   s.[ProductKey], 
   s.[OrderDateKey], 

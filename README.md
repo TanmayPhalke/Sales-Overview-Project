@@ -112,5 +112,5 @@ Below is a screenshot of the data model after cleansed and prepared tables were 
 
 This data model also shows how FACT_Budget hsa been connected to FACT_InternetSales and other necessary DIM tables.
 
-![alt Sales Data Model Image](https://github.com/TanmayPhalke/Sales-Overview-Project/)
+![alt Sales Data Model Image](https://github.com/TanmayPhalke/Sales-Overview-Project/blob/main/Images/Sales%20Data%20Model.PNG)
 

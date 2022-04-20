@@ -119,9 +119,11 @@ This data model also shows how FACT_Budget hsa been connected to FACT_InternetSa
 
 The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
 
-**Sales Report**
+**Sales Overview Report**
 ![alt Sales Data Model Image](https://github.com/TanmayPhalke/Sales-Overview-Project/blob/main/Images/SalesReport.PNG)
 
-**Customer Report**
+**Customer Overview Report**
 ![alt Sales Data Model Image](https://github.com/TanmayPhalke/Sales-Overview-Project/blob/main/Images/CustomerReport.PNG)
 
+
+Made with :heart: by Tanmay Phalke

@@ -1,6 +1,7 @@
 # Sales Overview Project
 
-Business Request & User Stories
+## Business Request & User Stories
+
 The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.
 
 |#|As a (role)|I want (request / demand)|So that I (user value)|Acceptance Criteria|
@@ -11,7 +12,7 @@ The business request for this data analyst project was an executive sales report
 |4|Sales Manager|A dashboard overview of internet sales|Follow sales over time against budget|	A Power BI dashboard with graphs and KPIs comparing against budget.|
 
 
-##Data Cleansing & Transformation (SQL)
+## Data Cleansing & Transformation (SQL)
 
 To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL.
 
@@ -106,7 +107,7 @@ ORDER BY
 `
 
 
-##Data Model
+## Data Model
 
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 
@@ -114,7 +115,7 @@ This data model also shows how FACT_Budget hsa been connected to FACT_InternetSa
 
 ![alt Sales Data Model Image](https://github.com/TanmayPhalke/Sales-Overview-Project/blob/main/Images/Sales%20Data%20Model.PNG)
 
-##Sales Management Dashboard
+## Sales Management Dashboard
 
 The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
 
